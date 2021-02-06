@@ -1,5 +1,5 @@
 #include <stdio.h> 
-
+/* this file about functions */
 int factorial(int x); 
 
 int main(int argc, char *argv[]){ 
